@@ -7,7 +7,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background: linear-gradient(135deg, #5b4e3b, #4a6641);
+    background-image: radial-gradient(circle, #297c34, #616d00, #885800, #a23a1f, #a8184a, #ab336f, #a54c90, #9864ac, #ac8bc5, #c3b2da, #dfd9ee, #ffffff);
     color: white;
 }
 
